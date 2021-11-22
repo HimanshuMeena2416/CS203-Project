@@ -3,4 +3,4 @@ Name: Siddharth Nayak(2018csb1125)
 
 Project Idea:
 Title:Car Parking System
-We will implement a car parking system in Verilog.
+We will implement a car parking system in VHDL.
